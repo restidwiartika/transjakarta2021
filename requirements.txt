@@ -6,3 +6,4 @@ scipy
 folium
 branca
 statsmodels
+streamlit-folium
